@@ -1,0 +1,67 @@
+@charset "UTF-8";
+.wrapper {
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    overflow: visible;
+}
+.header {
+    height: 180px;
+    border: thin solid #FF0004;
+}
+.content {
+    width: 660px;
+    border: thin solid #BD00FF;
+    float: left;
+}
+.sidebar {
+    width: 290px;
+    border: thin solid #25FF00;
+    float: right;
+}
+.footer {
+    clear: both;
+    width: 960px;
+    border: thin solid #008CFF;
+}
+.clearfix {
+    clear: both;
+}
+.logo {
+    height: 85px;
+    width: 200px;
+    margin-top: 15px;
+    margin-left: 35px;
+    border: thin dotted #E3FF00;
+    float: left;
+}
+.navbar {
+    height: 35px;
+    width: 600px;
+    border: thin dotted #FF00EF;
+    float: right;
+    margin-top: 15px;
+    margin-right: 25px;
+}
+.mainimage {
+    width: 630px;
+    margin-right: auto;
+    margin-left: auto;
+    border: thin dotted #FF9300;
+    margin-top: 10px;
+}
+.mainimage {
+    height: 400px;
+    width: 630px;
+    margin-right: auto;
+    margin-left: auto;
+    border: thin dotted #FF8E00;
+}
+.navbutton {
+    height: 25px;
+    width: 100px;
+	margin-right: 10px;
+    border: 0px dotted #00FFDD;
+    float: left;
+	background: #00FAFF
+}
